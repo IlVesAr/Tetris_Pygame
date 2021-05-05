@@ -4,7 +4,9 @@ not done. there are still some bugs, but its kind of playable : )
 how to play:
 
 <-    -move left
+
 ->    -move right
+
 c     -rotate
 
 
